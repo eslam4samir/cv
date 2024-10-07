@@ -1,0 +1,7 @@
+.photo {
+    float: left; /* Makes the image float to the left */
+    width: 150px; /* Set a width for the image */
+    border-radius: 50%; /* Optional: Makes it circular */
+    margin-right: 20px; /* Adds space between the photo and the text */
+    margin-bottom: 20px; /* Adds space below the photo */
+}
