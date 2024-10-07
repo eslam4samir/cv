@@ -3,3 +3,4 @@ description: "Eslam Samir's resume"
 logo: photo.jpg
 remote_theme: pages-themes/minimal@v0.2.0
 photo_html: '<img src="{{ site.logo }}" alt="Eslam Samir\'s Photo" width="150" style="border-radius: 50%; margin-right: 20px;"/>'
+
