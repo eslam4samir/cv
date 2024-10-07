@@ -1,6 +1,7 @@
 # Eslam Samir
 
-![Eslam Samir's Photo](/{{ site.photo }}){:.photo}
+
+![Eslam Samir's Photo]({{ site.photo }}){:.photo}
 
 **Phone:** +01154151932  
 **Email:** eslam4ever1@gmail.com  
