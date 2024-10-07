@@ -1,8 +1,5 @@
 # Eslam Samir
 
-
-![Eslam Samir's Photo]({{ site.photo }}){:.photo}
-
 **Phone:** +01154151932  
 **Email:** eslam4ever1@gmail.com  
 **LinkedIn:** [linkedin.com/in/eslam-samir-93a3b11a0](https://www.linkedin.com/in/eslam-samir-93a3b11a0)  
