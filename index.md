@@ -10,7 +10,7 @@
 ## Education
 ### Cairo University  
 **Bachelor of Science in Electronics and Communication Engineering**  
-Cumulative Grade: Very Good 
+Cumulative Grade: Very Good   
 **Sep. 2019 - July. 2024**, Giza, Egypt
 
 ---
