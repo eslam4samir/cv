@@ -1,11 +1,14 @@
 # Eslam Samir
 
-<img src="{{ site.photo }}" alt="Eslam Samir's Photo" width="200" /> 
-
-**Phone:** +01154151932  
-**Email:** eslam4ever1@gmail.com  
-**LinkedIn:** [linkedin.com/in/eslam-samir-93a3b11a0](https://www.linkedin.com/in/eslam-samir-93a3b11a0)  
-**GitHub:** [github.com/eslam4samir](https://github.com/eslam4samir)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="{{ site.photo }}" alt="Eslam Samir's Photo" width="150" style="border-radius: 50%; margin-right: 20px;"/>
+  <div>
+    <p><strong>Phone:</strong> +01154151932</p>
+    <p><strong>Email:</strong> eslam4ever1@gmail.com</p>
+    <p><strong>LinkedIn:</strong> [linkedin.com/in/eslam-samir-93a3b11a0](https://www.linkedin.com/in/eslam-samir-93a3b11a0)</p>
+    <p><strong>GitHub:</strong> [github.com/eslam4samir](https://github.com/eslam4samir)</p>
+  </div>
+</div>
 
 ---
 
