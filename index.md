@@ -1,6 +1,6 @@
 # Eslam Samir
 
-![Eslam Samir's Photo](https://github.com/eslam4samir/eslam4samir.github.io/blob/main/IMG_20210930_043354_373.jpg)
+<img src="photo.jpg" alt="Eslam Samir's Photo" width="200" />
 
 **Phone:** +01154151932  
 **Email:** eslam4ever1@gmail.com  
